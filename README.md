@@ -1,6 +1,6 @@
-# news_app
+# News App
 
-A new Flutter project.
+A dynamic news app which uses News Api to show different news, user can view different category news , Web view is used to read full article directly in app
 
 ## Getting Started
 
